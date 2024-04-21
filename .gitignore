@@ -1,5 +1,8 @@
 # dataset
 *.csv
 
+# cache
+.ipynb_checkpoints/*
+
 # other
 make_anonymous.py
